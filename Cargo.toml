@@ -4,3 +4,4 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+pubsub_rust = { git = "https://github.com/RossDuquette/pubsub_rust.git" }
